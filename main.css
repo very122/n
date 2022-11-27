@@ -1,0 +1,22 @@
+main {
+    background-image: url(../images/tartaglia.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    width: 95%;
+    margin: auto;
+    min-height: 70vh;
+}
+
+.post {
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid rgb(0, 89, 255);
+    border-radius: 10px;
+    font-size: 30px;
+    background-color: rgba(255, 255, 255, 0.642);
+}
+
+.carousel-slide {
+    width: 80%;
+    height: 80%;
+}
